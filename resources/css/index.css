@@ -68,11 +68,8 @@ ul {
 }
 
 img {
-    float: left;
-    padding: 20px;
-}
-img {
     float: right;
+    padding: 20px;
 }
 
 #PDF_Link {
